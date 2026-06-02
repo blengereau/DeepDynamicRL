@@ -53,8 +53,6 @@ Implemented concepts include:
 - greedy improvement,
 - and approximate optimal control.
 
-This bridges classical computational economics with modern AI optimization techniques.
-
 
 ## 4. Neural Network calibration to estimate the optimal path
 A deep neural network is trained to approximate optimal state trajectories.
